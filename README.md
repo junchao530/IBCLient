@@ -1,7 +1,7 @@
 # IBCLient
 Hi guys this is my Computer Science HL IA project which is a recreation of Badlion Client. 
 
-Download to the cover_page.htm if you'd like to see the actual IA it's self.
+Download and run the cover_page.htm if you'd like to see the actual IA it's self.
 
 Here are the instructions though if you'd like to try out the mod
 

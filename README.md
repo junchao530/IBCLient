@@ -1,4 +1,4 @@
-# IBCLient
+# IBClient
 Hi guys this is my Computer Science HL IA project which is a recreation of Badlion Client. 
 
 If you want to watch a quick video demo:
